@@ -22,4 +22,4 @@ Ideal for engineers, designers, and technicians who require precise, scalable, a
 
 
 # Note
-Refer to the [Components Folder](https://github.com/Saiesh-Agre/Precision-Dial-Generation-Tool/samples/) for sample dial and output
+Refer to the [Samples](https://github.com/Saiesh-Agre/Precision-Dial-Generation-Tool/samples) for sample dial and output
