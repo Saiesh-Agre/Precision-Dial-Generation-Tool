@@ -1,4 +1,4 @@
-# Precision-Dial-Generation-Tool
+![controlled_non_linear_dial](https://github.com/user-attachments/assets/7d140ff0-1a08-4170-9a20-c9213a5d406a)# Precision-Dial-Generation-Tool
 Precision Dial generation tool is a customizable and automated dial generation tool designed to create high-precision dials for measurement instruments, control panels, and other display applications
 
 # Description:
@@ -19,3 +19,53 @@ Ideal for engineers, designers, and technicians who require precise, scalable, a
 1. Define your desired parameters such as num_major, num_minor, full_scale, dial_shape, and other specifications.
 2. Run the code to generate an SVG file that meets your requirements.
 3. Review and implement the SVG output in your instrument design.
+
+# Examples:
+* **Sample Dial:**
+![Uploading sample_dial.jpg…]()
+
+* **Sample output file:**
+![Uploa<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+<line x1="240.00" y1="60.00" x2="240.00" y2="75.00" stroke="black" stroke-width="1.5"/>
+<line x1="240.00" y1="75.00" x2="240.00" y2="90.00" stroke="black" stroke-width="3.0"/>
+<text x="240.00" y="114.00" font-size="24.0" text-anchor="middle" alignment-baseline="middle">300</text>
+<line x1="172.83" y1="71.62" x2="177.87" y2="85.75" stroke="black" stroke-width="1.5"/>
+<line x1="177.87" y1="85.75" x2="182.90" y2="99.88" stroke="black" stroke-width="3.0"/>
+<text x="190.96" y="122.48" font-size="24.0" text-anchor="middle" alignment-baseline="middle">225</text>
+<line x1="106.10" y1="111.43" x2="116.15" y2="122.58" stroke="black" stroke-width="1.5"/>
+<line x1="116.15" y1="122.58" x2="126.19" y2="133.72" stroke="black" stroke-width="3.0"/>
+<text x="142.26" y="151.55" font-size="24.0" text-anchor="middle" alignment-baseline="middle">150</text>
+<line x1="57.85" y1="177.42" x2="71.51" y2="183.61" stroke="black" stroke-width="1.5"/>
+<line x1="71.51" y1="183.61" x2="85.17" y2="189.80" stroke="black" stroke-width="3.0"/>
+<text x="107.03" y="199.71" font-size="24.0" text-anchor="middle" alignment-baseline="middle">75</text>
+<line x1="40.00" y1="260.00" x2="55.00" y2="260.00" stroke="black" stroke-width="1.5"/>
+<line x1="55.00" y1="260.00" x2="70.00" y2="260.00" stroke="black" stroke-width="3.0"/>
+<text x="94.00" y="260.00" font-size="24.0" text-anchor="middle" alignment-baseline="middle">0</text>
+<line x1="228.59" y1="60.33" x2="229.16" y2="70.31" stroke="black" stroke-width="1.5"/>
+<line x1="217.21" y1="61.30" x2="219.49" y2="81.17" stroke="black" stroke-width="1.5"/>
+<line x1="205.91" y1="62.93" x2="207.62" y2="72.78" stroke="black" stroke-width="1.5"/>
+<line x1="194.73" y1="65.19" x2="199.25" y2="84.67" stroke="black" stroke-width="1.5"/>
+<line x1="183.68" y1="68.09" x2="186.50" y2="77.69" stroke="black" stroke-width="1.5"/>
+<line x1="160.70" y1="76.39" x2="164.67" y2="85.57" stroke="black" stroke-width="1.5"/>
+<line x1="148.91" y1="81.95" x2="158.02" y2="99.75" stroke="black" stroke-width="1.5"/>
+<line x1="137.51" y1="88.25" x2="142.64" y2="96.84" stroke="black" stroke-width="1.5"/>
+<line x1="126.55" y1="95.29" x2="137.89" y2="111.76" stroke="black" stroke-width="1.5"/>
+<line x1="116.06" y1="103.03" x2="122.26" y2="110.88" stroke="black" stroke-width="1.5"/>
+<line x1="96.23" y1="120.96" x2="103.42" y2="127.91" stroke="black" stroke-width="1.5"/>
+<line x1="87.04" y1="131.14" x2="102.34" y2="144.03" stroke="black" stroke-width="1.5"/>
+<line x1="78.57" y1="141.93" x2="86.64" y2="147.84" stroke="black" stroke-width="1.5"/>
+<line x1="70.85" y1="153.28" x2="87.77" y2="163.95" stroke="black" stroke-width="1.5"/>
+<line x1="63.94" y1="165.12" x2="72.74" y2="169.87" stroke="black" stroke-width="1.5"/>
+<line x1="52.45" y1="190.54" x2="61.83" y2="194.01" stroke="black" stroke-width="1.5"/>
+<line x1="48.00" y1="204.01" x2="67.20" y2="209.60" stroke="black" stroke-width="1.5"/>
+<line x1="44.51" y1="217.76" x2="54.29" y2="219.87" stroke="black" stroke-width="1.5"/>
+<line x1="42.01" y1="231.72" x2="61.81" y2="234.55" stroke="black" stroke-width="1.5"/>
+<line x1="40.50" y1="245.82" x2="50.48" y2="246.53" stroke="black" stroke-width="1.5"/>
+<text x="75.0" y="75.0" font-size="30.0">A</text>
+<text x="60" y="300" font-size="15.0">1.5</text>
+<text x="100" y="300" font-size="15.0">1.5</text>
+<text x="140" y="300" font-size="15.0">150/5A</text>
+</svg>ding controlled_non_linear_dial.svg…]()
+
+
+
